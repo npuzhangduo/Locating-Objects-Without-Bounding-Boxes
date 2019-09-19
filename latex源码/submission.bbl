@@ -1,0 +1,414 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{aich2018}
+S.~Aich, I.~Ahmed, I.~Obsyannikov, I.~Stavness, A.~Josuttes, K.~Strueby,
+  H.~Duddu, C.~Pozniak, and S.~Shirtliffe.
+\newblock Deepwheat: Estimating phenotypic traits from crop images with deep
+  learning.
+\newblock {\em Proceedings of the IEEE Winter Conference on Applications of
+  Computer Vision}, March 2018.
+\newblock {Stateline, NV}.
+
+\bibitem{track_by_detection2008}
+M.~Andriluka, S.~Roth, and B.~Schiele.
+\newblock People-tracking-by-detection and people-detection-by-tracking.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, June 2008.
+\newblock {Anchorage, AK}.
+
+\bibitem{araus_2014}
+J.~L. Araus and J.~E. Cairns.
+\newblock Field high-throughput phenotyping: the new crop breeding frontier.
+\newblock {\em Trends in Plant Science}, 19(1):52--61, January 2014.
+
+\bibitem{arkin1991}
+E.~M. Arkin, L.~P. Chew, D.~P. Huttenlocher, K.~Kedem, and J.~S. Mitchell.
+\newblock An efficiently computable metric for comparing polygonal shapes.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  13(3), March 1991.
+
+\bibitem{attouch1991}
+H.~Attouch, R.~Lucchetti, and R.~J.~B. Wets.
+\newblock The topology of the $\rho$-{H}ausdorff distance.
+\newblock {\em Annali di Matematica Pura ed Applicata}, 160(1):303--320,
+  December 1991.
+
+\bibitem{bell2015}
+S.~Bell, P.~Upchurch, N.~Snavely, and K.~Bala.
+\newblock Material recognition in the wild with the materials in context
+  database (supplemental material).
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, June 2015.
+\newblock {Boston, MA}.
+
+\bibitem{breitenstein2011}
+M.~D. Breitenstein, F.~Reichlin, B.~Leibe, E.~Koller-Meier, and L.~V. Gool.
+\newblock Online multiperson tracking-by-detection from a single, uncalibrated
+  camera.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  33(9):1820--1833, 2011.
+
+\bibitem{chauhan2011}
+B.~S. Chauhan and D.~E. Johnson.
+\newblock Row spacing and weed control timing affect yield of aerobic rice.
+\newblock {\em Field Crops Research}, 121(2):226--231, March 2001.
+
+\bibitem{meanshift}
+D.~Comaniciu and P.~Meer.
+\newblock Mean shift: A robust approach toward feature space analysis.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  24(5):603--619, 2002.
+
+\bibitem{dubuisson1994}
+M.-P. Dubuisson and A.~K. Jain.
+\newblock A modified {H}ausdorff distance for object matching.
+\newblock {\em Pattern Recognition}, pages 566--568, October 1994.
+
+\bibitem{fan2017}
+H.~Fan, H.~Su, and L.~Guibas.
+\newblock A point set generation network for {3D} object reconstruction from a
+  single image.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 2463--2471, July 2017.
+\newblock {Honolulu, HI}.
+
+\bibitem{farnham2001}
+D.~E. Farnham.
+\newblock Row spacing, plant density, and hybrid effects on corn grain yield
+  and moisture.
+\newblock {\em Agronomy Journal}, 93:1049--1053, September 2001.
+
+\bibitem{fuhl2015}
+W.~Fuhl, T.~K\"{u}bler, K.~Sippel, W.~Rosenstiel, and E.~Kasneci.
+\newblock {ExCuSe}: Robust pupil detection in real-world scenarios.
+\newblock {\em Proceedings of the International Conference on Computer Analysis
+  of Images and Patterns}, pages 39--51, September 2015.
+\newblock {Valletta, Malta}.
+
+\bibitem{fuhl2016_2}
+W.~Fuhl, T.~Santini, C.~Reichert, D.~Claus, A.~Herkommer, H.~Bahmani, K.~Rifai,
+  S.~Wahl, and E.~Kasneci.
+\newblock Non-intrusive practitioner pupil detection for unmodified microscope
+  oculars.
+\newblock {\em Computers in Biology and Medicine}, 79:36--44, December 2016.
+
+\bibitem{fastrcnn}
+R.~Girshick.
+\newblock Fast {R-CNN}.
+\newblock {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 1440--1448, December 2015.
+
+\bibitem{deeplearningbook}
+I.~Goodfellow, Y.~Bengio, and A.~Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, November 2016.
+
+\bibitem{copilot}
+J.~Gu, X.~Yang, S.~{De Mello}, and J.~Kautz.
+\newblock Dynamic facial analysis: From bayesian filtering to recurrent neural
+  network.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1548--1557, July 2017.
+\newblock {Honolulu, HI}.
+
+\bibitem{maskrcnn}
+K.~He, G.~Gkioxari, P.~Doll\'{a}r, and R.~Girshick.
+\newblock Mask {R-CNN}.
+\newblock {\em arXiv:1703.06870}, April 2017.
+
+\bibitem{huang2017}
+J.~Huang, V.~Rathod, C.~Sun, M.~Zhu, A.~Korattikara, A.~Fathi, I.~Fischer,
+  Z.~Wojna, Y.~Song, S.~Guadarrama, and K.~Murphy.
+\newblock Speed/accuracy trade-offs for modern convolutional object detectors.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, July 2017.
+\newblock {Honolulu, HI}.
+
+\bibitem{huang2018}
+S.~Huang, X.~Li, Z.~Zhang, F.~Wu, S.~Gao, R.~Ji, and J.~Han.
+\newblock Body structure aware deep crowd counting.
+\newblock {\em IEEE Transactions on Image Processing}, 27(3):1049--1059, March
+  2018.
+
+\bibitem{huber1964}
+P.~J. Huber.
+\newblock Robust estimation of a location parameter.
+\newblock {\em The Annals of Mathematical Statistics}, pages 73--101, 1964.
+
+\bibitem{pix2pix}
+P.~Isola, J.-Y. Zhu, T.~Zhou, and A.~A. Efros.
+\newblock Image-to-image translation with conditional adversarial networks.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, July 2017.
+\newblock {Honolulu, HI}.
+
+\bibitem{lin2003}
+K.~L. K.~Lin and W.~Siu.
+\newblock Spatially eigen-weighted {H}ausdorff distances for human face
+  recognition.
+\newblock {\em Pattern Recognition}, 36(8):1827--1834, August 2003.
+
+\bibitem{elkhiyari2017}
+H.~E. Khiyari and H.~Wechsler.
+\newblock Age invariant face recognition using convolutional neural networks
+  and set distances.
+\newblock {\em Journal of Information Security}, 8(3):174--185, July 2017.
+
+\bibitem{kingma_2014}
+D.~P. Kingma and J.~Ba.
+\newblock Adam: {A} method for stochastic optimization.
+\newblock {\em Proceedings of the International Conference for Learning
+  Representations}, abs/1412.6980, April 2015.
+\newblock {San Diego, CA}.
+
+\bibitem{minimum}
+C.~S. Kubrusly.
+\newblock Banach spaces ${L}^p$.
+\newblock In {\em Essentials of Measure Theory}, page~83. Springer, Cham, 2005.
+
+\bibitem{nature}
+Y.~LeCun, Y.~Bengio, and G.~Hinton.
+\newblock Deep learning.
+\newblock {\em Nature}, 521:436--444, May 2015.
+
+\bibitem{lempitsky_2010}
+V.~Lempitsky and A.~Zisserman.
+\newblock Learning to count objects in images.
+\newblock {\em Proceedings of the Advances in Neural Information Processing
+  Systems}, pages 1324--1332, December 2010.
+\newblock {Vancouver, Canada}.
+
+\bibitem{li2018}
+Y.~Li, X.~Zhang, and D.~Chen.
+\newblock {CSRNet}: Dilated convolutional neural networks for understanding the
+  highly congested scenes.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1091--1100, June 2018.
+
+\bibitem{liao2013}
+S.~Liao, Y.~Gao, A.~Oto, and D.~Shen.
+\newblock Representation learning: A unified deep learning framework for
+  automatic prostate mr segmentation.
+\newblock {\em Proceedings of the Medical Image Computing and Computer-Assisted
+  Intervention}, pages 254--261, September 2013.
+\newblock {Nagoya, Japan}.
+
+\bibitem{ssd}
+W.~Liu, D.~Anguelov, D.~Erhan, C.~Szegedy, S.~Reed, C.~Fu, and A.~C. Berg.
+\newblock {SSD}: {S}ingle shot multibox detector.
+\newblock {\em Proceedings of the European Conference on Computer Vision},
+  pages 21--37, October 2016.
+\newblock {Amsterdam, The Netherlands}.
+
+\bibitem{loy2013}
+C.~C. Loy, K.~Chen, S.~Gong, and T.~Xiang.
+\newblock Crowd counting and profiling: Methodology and evaluation.
+\newblock In {\em Modeling, Simulation and Visual Analysis of Crowds}, pages
+  347--382. Springer, October 2013.
+
+\bibitem{lu2001}
+Y.~Lu, C.~L. Tan, W.~Huang, and L.~Fan.
+\newblock An approach to word image matching based on weighted {H}ausdorff
+  distance.
+\newblock {\em Proceedings of International Conference on Document Analysis and
+  Recognition}, pages 921--925, September 2001.
+
+\bibitem{em}
+T.~K. Moon.
+\newblock The expectation-maximization algorithm.
+\newblock {\em IEEE Signal Processing Magazine}, 13(6):47--60, November 1996.
+
+\bibitem{neilson_2015}
+E.~H. Neilson, A.~M. Edwards, C.~K. Blomstedt, B.~Berger, B.~L. Møller, and
+  R.~M. Gleadow.
+\newblock Utilization of a high-throughput shoot imaging system to examine the
+  dynamic phenotypic responses of a {C$_4$} cereal crop plant to nitrogen and
+  water deficiency over time.
+\newblock {\em Journal of Experimental Botany}, 66(7):1817--1832, 2015.
+
+\bibitem{otsu}
+N.~Otsu.
+\newblock A threshold selection method from gray-level histograms.
+\newblock {\em IEEE Transactions on Systems, Man, and Cybernetics},
+  9(1):62--66, January 1979.
+
+\bibitem{Papadopoulos2015}
+D.~P. Papadopoulos, J.~R.~R. Uijlings, F.~Keller, and V.~Ferrari.
+\newblock We don't need no bounding-boxes: Training object class detectors
+  using only human verification.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 854--863, June 2016.
+\newblock {Las Vegas, NV}.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{amsgrad}
+S.~J. Reddi, S.~Kale, and S.~Kumar.
+\newblock On the convergence of adam and beyond.
+\newblock {\em Proceedings of the International Conference on Learning
+  Representations}, April 2018.
+\newblock {Vancouver, Canada}.
+
+\bibitem{redmon2016you}
+J.~Redmon, S.~Divvala, R.~Girshick, and A.~Farhadi.
+\newblock You only look once: Unified, real-time object detection.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pages 779--788, June 2016.
+\newblock {Las Vegas, NV}.
+
+\bibitem{fasterrcnn}
+S.~Ren, K.~He, R.~Girshick, and J.~Sun.
+\newblock Faster {R-CNN}: Towards real-time object detection with region
+  proposal networks.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  36(6):1137--1149, June 2017.
+
+\bibitem{unet}
+O.~Ronneberger, P.~Fischer, and T.~Brox.
+\newblock U-{N}et: Convolutional networks for biomedical image segmentation.
+\newblock {\em Proceedings of the International Conference on Medical Image
+  Computing and Computer-Assisted Intervention}, pages 234--241, October 2015.
+\newblock {Munich, Germany}.
+
+\bibitem{imagenet}
+O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang,
+  A.~Karpathy, A.~Khosla, M.~Bernstein, A.~C. Berg, and L.~Fei-Fei.
+\newblock Imagenet large scale visual recognition challenge.
+\newblock {\em International Journal of Computer Vision}, 11(3):211--252,
+  December 2015.
+
+\bibitem{sam2017}
+D.~B. Sam, S.~Surya, and R.~V. Babu.
+\newblock Switching convolutional neural network for crowd counting.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 4031--4039, July 2017.
+
+\bibitem{bmm}
+C.~Schr\"{o}der.
+\newblock A hybrid parameter estimation algorithm for beta mixtures and
+  applications to methylation state classification.
+\newblock {\em Algorithms for Molecular Biology}, 12(21):62--66, August 2017.
+
+\bibitem{schutze2012}
+O.~Schutze, X.~Esquivel, A.~Lara, and C.~A.~C. Coello.
+\newblock Using the averaged {H}ausdorff distance as a performance measure in
+  evolutionary multiobjective optimization.
+\newblock {\em IEEE Transactions on Evolutionary Computation}, 16(4):504--522,
+  August 2012.
+
+\bibitem{shao_2015}
+J.~Shao, D.~Wang, X.~Xue, and Z.~Zhang.
+\newblock Learning to point and count.
+\newblock {\em arXiv:1512.02326}, December 2015.
+
+\bibitem{applegan}
+A.~Shrivastava, T.~Pfister, O.~Tuzel, J.~Susskind, W.~Wang, and R.~Webb.
+\newblock Learning from simulated and unsupervised images through adversarial
+  training.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 2107--2116, July 2017.
+\newblock {Honolulu, HI}.
+
+\bibitem{vgg}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em Proceedings of the International Conference on Learning
+  Representations}, May 2015.
+\newblock {San Diego, CA}.
+
+\bibitem{su2012}
+H.~Su, J.~Deng, and L.~Fei-Fei.
+\newblock Crowdsourcing annotations for visual object detection.
+\newblock {\em Proceedings of the Association for the Advancement of Artificial
+  Intelligence Human Computation Workshop}, WS-12-08:40--46, July 2012.
+\newblock {Toronto, Canada}.
+
+\bibitem{sui_2011}
+R.~Sui, B.~E. Hartley, J.~M. Gibson, C.~Yang, J.~A. Thomasson, and S.~W.
+  Searcy.
+\newblock High-biomass sorghum yield estimate with aerial imagery.
+\newblock {\em Journal of Applied Remote Sensing}, 5(1):053523, January 2011.
+
+\bibitem{eyetracking_book}
+V.~Sundstedt.
+\newblock {\em Gazing at Games: An Introduction to Eye Tracking Control},
+  volume~5.
+\newblock Morgan \& Claypool Publishers, {San Rafael, CA}, 2012.
+
+\bibitem{swirski2012}
+L.~\'{S}wirski, A.~Bulling, and N.~Dodgson.
+\newblock Robust real-time pupil tracking in highly off-axis images.
+\newblock {\em Proceedings of the Symposium on Eye Tracking Research and
+  Applications}, pages 173--176, March 2012.
+\newblock {Santa Barbara, CA}.
+
+\bibitem{taha2015}
+A.~A. Taha and A.~Hanbury.
+\newblock Metrics for evaluating 3{D} medical image segmentation: Analysis,
+  selection, and tool.
+\newblock {\em BMC Medical Imaging}, 15(1):29, August 2015.
+
+\bibitem{teikari2016}
+P.~Teikari, M.~Santos, C.~Poon, and K.~Hynynen.
+\newblock Deep learning convolutional networks for multiphoton microscopy
+  vasculature segmentation.
+\newblock {\em arXiv:1606.02382}, June 2016.
+
+\bibitem{thornley_1983}
+J.~H.~M. Thornley.
+\newblock Crop yield and planting density.
+\newblock {\em Annals of Botany}, 52(2):257--259, August 1983.
+
+\bibitem{tokatlidis_2004}
+I.~Tokatlidis and S.~D. Koutroubas.
+\newblock A review of maize hybrids' dependence on high plant populations and
+  its implications for crop yield stability.
+\newblock {\em Field Crops Research}, 88(2):103--114, August 2004.
+
+\bibitem{tompson2015efficient}
+J.~Tompson, R.~Goroshin, A.~Jain, Y.~LeCun, and C.~Bregler.
+\newblock Efficient object localization using convolutional networks.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, pages 648--656, June 2015.
+\newblock {Boston, MA}.
+
+\bibitem{selectivesearch}
+J.~R.~R. Uijlings, , K.~E.~A. {Van De Sande}, T.~Gevers, and A.~W.~M.
+  Smeulders.
+\newblock Selective search for object recognition.
+\newblock {\em International Journal of Computer Vision}, 104(2):154--171,
+  September 2013.
+
+\bibitem{xiong2017}
+F.~Xiong, X.~Shi, and D.~Yeung.
+\newblock Spatiotemporal modeling for crowd counting in videos.
+\newblock {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 5151--5159, October 2017.
+\newblock {Venice, Italy}.
+
+\bibitem{zhang2015}
+C.~Zhang, H.~Li, X.~Wang, and X.~Yang.
+\newblock Cross-scene crowd counting via deep convolutional neural networks.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 833--841, June 2015.
+\newblock {Boston, MA}.
+
+\bibitem{zhang2016}
+Y.~Zhang, D.~Zhou, S.~Chen, S.~Gao, and Y.~Ma.
+\newblock Single-image crowd counting via multi-column convolutional neural
+  network.
+\newblock {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 589--597, June 2016.
+\newblock {Las Vegas, NV}.
+
+\bibitem{zhou2017}
+S.~K. Zhou, H.~Greenspan, and D.~Shen.
+\newblock {\em Deep Learning for Medical Image Analysis}.
+\newblock Academic Press, London, United Kingdom, 2017.
+
+\end{thebibliography}
